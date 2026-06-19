@@ -1,8 +1,6 @@
-
-```markdown
 # Lyrien Native Engineering
 
-![Lyrien Native Engineering](https://img.shields.io/badge/Skill-Lyrien%20Native%20Engineering-blue)
+[![Lyrien Native Engineering](https://img.shields.io/badge/Skill-Lyrien%20Native%20Engineering-blue)](https://github.com/seu-usuario/lyrien-native-engineering)
 
 Uma especificação profissional para criação de uma Skill de engenharia de software usando Skill Creator.
 
@@ -59,7 +57,8 @@ node --version
 npm --version
 ```
 
-Caso não tenha Node.js instalado: [https://nodejs.org/](https://nodejs.org/)
+Caso não tenha Node.js instalado:  
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### Instalação do Skill Creator
 
@@ -83,8 +82,8 @@ O arquivo principal de especificação está localizado em:
 archive/lyrien-native-engineering-spec.md
 ```
 
-Esse arquivo contém todas as instruções necessárias para criar a Skill final.
-**Ele não é a Skill pronta.**
+Esse arquivo contém todas as instruções necessárias para criar a Skill final.  
+**Ele não é a Skill pronta.**  
 Ele é um documento de engenharia usado pelo Skill Creator para gerar a estrutura completa.
 
 ### Criando a Skill
@@ -93,8 +92,8 @@ Ele é um documento de engenharia usado pelo Skill Creator para gerar a estrutur
 2. Envie o arquivo: `archive/lyrien-native-engineering-spec.md`
 3. Depois solicite:
 
-> Crie uma Skill usando esta especificação.
-> Siga todos os requisitos exatamente.
+> Crie uma Skill usando esta especificação.  
+> Siga todos os requisitos exatamente.  
 > Gere toda a estrutura da Skill.
 
 O Skill Creator deverá gerar a seguinte estrutura:
@@ -139,12 +138,11 @@ Após gerada, a Skill atua como um engenheiro de software especializado.
 
 Segue um processo estruturado:
 
-1. **Reproduzir**Criar uma forma confiável de repetir o problema.
-2. **Isolar**Utilizar logs, debuggers, tracing, profilers.
-3. **Analisar**Encontrar estado incorreto, suposições inválidas, causa raiz.
-4. **Corrigir**Aplicar uma solução real.
-5. **Prevenir**
-   Adicionar proteção contra novos erros.
+1. **Reproduzir** – Criar uma forma confiável de repetir o problema.
+2. **Isolar** – Utilizar logs, debuggers, tracing, profilers.
+3. **Analisar** – Encontrar estado incorreto, suposições inválidas, causa raiz.
+4. **Corrigir** – Aplicar uma solução real.
+5. **Prevenir** – Adicionar proteção contra novos erros.
 
 ---
 
@@ -200,11 +198,10 @@ Ela evita:
 
 ---
 
-## Comunidade
+## Comunidade de Estudos
 
 Entre no Discord:
 
 <a href="https://discord.gg/PaneXdSEaP">
   <img src="https://img.shields.io/badge/Discord-Entrar%20na%20Comunidade-5865F2?style=for-the-badge&logo=discord">
 </a>
-```
