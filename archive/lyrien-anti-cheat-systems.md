@@ -1,8 +1,4 @@
 
----
-name: anti-cheat-systems
-description: Professional anti-cheat engineering and analysis skill for modern game security, Windows kernel internals, detection mechanisms, and defensive research. Authored by Lyrien.
----
 # Anti-Cheat Systems & Analysis
 
 **Part of:** Lyrien Security Engineering
